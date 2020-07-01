@@ -6,3 +6,5 @@ When you start the app it has a next button which switches between the 2 gameobj
 
 Demo of how the app work is shown in the following:
 https://www.instagram.com/p/CCGkdgLF7Ms/?igshid=tggsy4yyb6cz
+
+![Image of Concept](https://github.com/skjagan/Hack-in-India/blob/master/Screenshot_20200701-193132.png)
